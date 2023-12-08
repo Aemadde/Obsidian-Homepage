@@ -1,0 +1,12 @@
+{
+  "chroma": 16,
+  "lightness": 87,
+  "palette": 8,
+  "seed": 0,
+  "knownTags": {
+    "h": 1,
+    "h/COLOR_name": 1,
+    "todo": 2
+  },
+  "_version": 2
+}
